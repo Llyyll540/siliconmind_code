@@ -1,0 +1,20 @@
+{"id":"R001","component":"电阻","level":"入门","type":"问答","question":"为什么电阻会发热？","answer_hint":"P=I²R"}
+{"id":"C001","component":"电容","level":"入门","type":"问答","question":"为什么电解电容有正负极？"}
+{"id":"D001","component":"二极管","level":"入门","type":"问答","question":"为什么 PN 结有死区电压？硅和锗分别是多少？"}
+{"id":"D002","component":"二极管","level":"进阶","type":"分析","question":"肖特基二极管为什么反向恢复时间短？"}
+{"id":"Q001","component":"三极管","level":"入门","type":"问答","question":"NPN 和 PNP 三极管符号怎么区分？"}
+{"id":"Q002","component":"三极管","level":"进阶","type":"计算","question":"共射放大 β=100,Vcc=12V,Rc=2kΩ,Rb=100kΩ,求 Ic 与 Vce。"}
+{"id":"M001","component":"MOSFET","level":"入门","type":"问答","question":"MOSFET 的 G 极为什么几乎不取电流？"}
+{"id":"M002","component":"MOSFET","level":"进阶","type":"分析","question":"为什么 N 沟道增强型 MOSFET 衬底要接最低电位？"}
+{"id":"OP001","component":"运放","level":"入门","type":"问答","question":"理想运放的两条核心假设是什么？"}
+{"id":"OP002","component":"LM358","level":"进阶","type":"分析","question":"LM358 作为比较器时输出为什么需要上拉？"}
+{"id":"OP003","component":"运放","level":"进阶","type":"设计","question":"用 LM358 设计 10 倍同相放大,给出电路和带宽估算。"}
+{"id":"T001","component":"NE555","level":"入门","type":"问答","question":"NE555 单稳态电路的脉宽由什么决定？"}
+{"id":"T002","component":"NE555","level":"进阶","type":"设计","question":"设计 1kHz 占空比 60% 多谐振荡器,C=10nF,求 R1、R2。"}
+{"id":"T003","component":"NE555","level":"进阶","type":"分析","question":"NE555 内部比较器阈值是 Vcc 的几分之几？"}
+{"id":"SYS001","component":"综合","level":"进阶","type":"系统","question":"PWM 调光 LED 中,频率选 1kHz 还是 100kHz？为什么？"}
+{"id":"SYS002","component":"综合","level":"进阶","type":"设计","question":"设计 5V/1A 降压电源,列出 L、C、MOSFET 选型要点。"}
+{"id":"SYS003","component":"综合","level":"高阶","type":"分析","question":"为什么高速 PCB 走线要做阻抗匹配？"}
+{"id":"SENS001","component":"传感器","level":"入门","type":"问答","question":"热敏电阻 NTC 与 PTC 的区别和应用场景。"}
+{"id":"OPTO001","component":"光耦","level":"进阶","type":"问答","question":"光耦的 CTR是什么？影响什么？"}
+{"id":"DRV001","component":"驱动","level":"进阶","type":"设计","question":"用 IR2110 驱动半桥,自举电容怎么选？"}

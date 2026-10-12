@@ -1,0 +1,20 @@
+{"id": "L001", "component": "电感", "level": "入门", "type": "问答", "question": "为什么电感在直流电路中相当于短路，而在交流电路中会有阻抗？"}
+{"id": "C002", "component": "电容", "level": "进阶", "type": "计算", "question": "已知电容 C=100uF，两端电压变化率为 10V/s，求流过电容的电流大小。", "answer_hint": "I = C * dU/dt"}
+{"id": "D003", "component": "二极管", "level": "入门", "type": "问答", "question": "简述稳压二极管（齐纳二极管）的工作原理，它工作在什么状态？"}
+{"id": "Q003", "component": "三极管", "level": "进阶", "type": "分析", "question": "为什么三极管共射放大电路的输出信号与输入信号反相（倒相）？"}
+{"id": "Q004", "component": "三极管", "level": "高阶", "type": "设计", "question": "设计一个三极管开关电路驱动 5V 继电器，已知继电器线圈电阻 100Ω，β=100，求基极电阻。"}
+{"id": "M003", "component": "MOSFET", "level": "入门", "type": "问答", "question": "增强型 MOSFET 和耗尽型 MOSFET 在 Vgs=0 时的导电特性有何区别？"}
+{"id": "M004", "component": "MOSFET", "level": "进阶", "type": "分析", "question": "为什么功率 MOSFET 通常需要并联一个反向的续流二极管？"}
+{"id": "OP004", "component": "运放", "level": "入门", "type": "问答", "question": "什么是运放的虚短和虚断？它们的成立条件是什么？"}
+{"id": "OP005", "component": "运放", "level": "进阶", "type": "计算", "question": "反相放大器，R1=1kΩ，Rf=10kΩ，输入 0.5V，求输出电压。", "answer_hint": "Av = -Rf/R1"}
+{"id": "OP006", "component": "运放", "level": "进阶", "type": "分析", "question": "运放电路中为什么要在反馈电阻上并联一个小电容？"}
+{"id": "FLT001", "component": "滤波器", "level": "入门", "type": "问答", "question": "无源低通滤波器和高通滤波器的核心元件分别是什么？"}
+{"id": "FLT002", "component": "滤波器", "level": "进阶", "type": "计算", "question": "RC 低通滤波器，R=1kΩ，C=100nF，求其截止频率 fc。", "answer_hint": "fc = 1/(2πRC)"}
+{"id": "OSC001", "component": "振荡器", "level": "进阶", "type": "分析", "question": "RC 桥式振荡电路产生振荡的幅值条件和相位条件是什么？"}
+{"id": "PWR001", "component": "电源", "level": "入门", "type": "问答", "question": "线性稳压电源（LDO）和开关电源（DCDC）各自的优缺点是什么？"}
+{"id": "PWR002", "component": "电源", "level": "进阶", "type": "计算", "question": "7805 稳压芯片输入 12V，输出 5V，负载电流 500mA，求芯片自身的功耗。", "answer_hint": "P = (Vin - Vout) * I"}
+{"id": "PWR003", "component": "电源", "level": "高阶", "type": "设计", "question": "设计一个输出电压可调的 LM317 稳压电路，给出核心电阻的计算公式。"}
+{"id": "SYS004", "component": "综合", "level": "进阶", "type": "系统", "question": "在微弱信号放大电路中，为什么要使用仪表放大器而不是普通运放？"}
+{"id": "SYS005", "component": "综合", "level": "高阶", "type": "分析", "question": "什么是地环路干扰？在 PCB 设计中如何避免或减弱它？"}
+{"id": "SENS002", "component": "传感器", "level": "进阶", "type": "问答", "question": "热电偶和热电阻（RTD）测量温度的原理有何不同？"}
+{"id": "DRV002", "component": "驱动", "level": "进阶", "type": "设计", "question": "使用 MOS 管驱动电机时，为什么要在栅极串联一个电阻，且并联一个下拉电阻？"}

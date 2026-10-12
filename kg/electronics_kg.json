@@ -1,0 +1,4980 @@
+{
+  "nodes": [
+    {
+      "id": "电压比较器",
+      "label": "电压比较器"
+    },
+    {
+      "id": "原理",
+      "label": "原理"
+    },
+    {
+      "id": "阈值电压",
+      "label": "阈值电压"
+    },
+    {
+      "id": "输出高电平",
+      "label": "输出高电平"
+    },
+    {
+      "id": "输出低电平",
+      "label": "输出低电平"
+    },
+    {
+      "id": "集成运放同相输入端",
+      "label": "集成运放同相输入端"
+    },
+    {
+      "id": "集成运放",
+      "label": "集成运放"
+    },
+    {
+      "id": "集成运放反相输入端",
+      "label": "集成运放反相输入端"
+    },
+    {
+      "id": "共模输入电压",
+      "label": "共模输入电压"
+    },
+    {
+      "id": "差分放大",
+      "label": "差分放大"
+    },
+    {
+      "id": "差模输入电压",
+      "label": "差模输入电压"
+    },
+    {
+      "id": "交流信号源电压",
+      "label": "交流信号源电压"
+    },
+    {
+      "id": "交流输入电压",
+      "label": "交流输入电压"
+    },
+    {
+      "id": "反馈电流",
+      "label": "反馈电流"
+    },
+    {
+      "id": "负反馈",
+      "label": "负反馈"
+    },
+    {
+      "id": "反馈电压",
+      "label": "反馈电压"
+    },
+    {
+      "id": "静态值",
+      "label": "静态值"
+    },
+    {
+      "id": "直流偏置",
+      "label": "直流偏置"
+    },
+    {
+      "id": "静态工作点设置",
+      "label": "静态工作点设置"
+    },
+    {
+      "id": "交流输入电流",
+      "label": "交流输入电流"
+    },
+    {
+      "id": "信号放大",
+      "label": "信号放大"
+    },
+    {
+      "id": "交流输出电流",
+      "label": "交流输出电流"
+    },
+    {
+      "id": "交流输出电压",
+      "label": "交流输出电压"
+    },
+    {
+      "id": "基极回路电源",
+      "label": "基极回路电源"
+    },
+    {
+      "id": "三极管偏置",
+      "label": "三极管偏置"
+    },
+    {
+      "id": "集电极回路电源",
+      "label": "集电极回路电源"
+    },
+    {
+      "id": "发射极回路电源",
+      "label": "发射极回路电源"
+    },
+    {
+      "id": "漏极回路电源",
+      "label": "漏极回路电源"
+    },
+    {
+      "id": "场效应管偏置",
+      "label": "场效应管偏置"
+    },
+    {
+      "id": "源极回路电源",
+      "label": "源极回路电源"
+    },
+    {
+      "id": "LM358",
+      "label": "LM358"
+    },
+    {
+      "id": "元件",
+      "label": "元件"
+    },
+    {
+      "id": "NE555",
+      "label": "NE555"
+    },
+    {
+      "id": "三极管",
+      "label": "三极管"
+    },
+    {
+      "id": "场效应管",
+      "label": "场效应管"
+    },
+    {
+      "id": "R",
+      "label": "R"
+    },
+    {
+      "id": "G",
+      "label": "G"
+    },
+    {
+      "id": "C",
+      "label": "C"
+    },
+    {
+      "id": "L",
+      "label": "L"
+    },
+    {
+      "id": "A",
+      "label": "A"
+    },
+    {
+      "id": "A_cm",
+      "label": "A_cm"
+    },
+    {
+      "id": "A_dm",
+      "label": "A_dm"
+    },
+    {
+      "id": "A_v",
+      "label": "A_v"
+    },
+    {
+      "id": "A_hf",
+      "label": "A_hf"
+    },
+    {
+      "id": "A_lf",
+      "label": "A_lf"
+    },
+    {
+      "id": "A_mf",
+      "label": "A_mf"
+    },
+    {
+      "id": "A_bp",
+      "label": "A_bp"
+    },
+    {
+      "id": "A_vs",
+      "label": "A_vs"
+    },
+    {
+      "id": "P",
+      "label": "P"
+    },
+    {
+      "id": "p",
+      "label": "p"
+    },
+    {
+      "id": "P_o",
+      "label": "P_o"
+    },
+    {
+      "id": "P_om",
+      "label": "P_om"
+    },
+    {
+      "id": "P_c",
+      "label": "P_c"
+    },
+    {
+      "id": "P_v",
+      "label": "P_v"
+    },
+    {
+      "id": "f",
+      "label": "f"
+    },
+    {
+      "id": "f_bw",
+      "label": "f_bw"
+    },
+    {
+      "id": "f_0dB",
+      "label": "f_0dB"
+    },
+    {
+      "id": "f_H",
+      "label": "f_H"
+    },
+    {
+      "id": "f_L",
+      "label": "f_L"
+    },
+    {
+      "id": "f_c",
+      "label": "f_c"
+    },
+    {
+      "id": "f_0",
+      "label": "f_0"
+    },
+    {
+      "id": "ω",
+      "label": "ω"
+    },
+    {
+      "id": "R_i",
+      "label": "R_i"
+    },
+    {
+      "id": "R_if",
+      "label": "R_if"
+    },
+    {
+      "id": "R_o",
+      "label": "R_o"
+    },
+    {
+      "id": "R_of",
+      "label": "R_of"
+    },
+    {
+      "id": "R_s",
+      "label": "R_s"
+    },
+    {
+      "id": "R_L",
+      "label": "R_L"
+    },
+    {
+      "id": "R_N",
+      "label": "R_N"
+    },
+    {
+      "id": "R_P",
+      "label": "R_P"
+    },
+    {
+      "id": "R_b",
+      "label": "R_b"
+    },
+    {
+      "id": "R_c",
+      "label": "R_c"
+    },
+    {
+      "id": "R_e",
+      "label": "R_e"
+    },
+    {
+      "id": "R_g",
+      "label": "R_g"
+    },
+    {
+      "id": "R_d",
+      "label": "R_d"
+    },
+    {
+      "id": "R_s_fet",
+      "label": "R_s_fet"
+    },
+    {
+      "id": "信号",
+      "label": "信号"
+    },
+    {
+      "id": "电压",
+      "label": "电压"
+    },
+    {
+      "id": "共模电压",
+      "label": "共模电压"
+    },
+    {
+      "id": "差模电压",
+      "label": "差模电压"
+    },
+    {
+      "id": "高频电压",
+      "label": "高频电压"
+    },
+    {
+      "id": "低频电压",
+      "label": "低频电压"
+    },
+    {
+      "id": "中频电压",
+      "label": "中频电压"
+    },
+    {
+      "id": "通带电压",
+      "label": "通带电压"
+    },
+    {
+      "id": "输出交流功率",
+      "label": "输出交流功率"
+    },
+    {
+      "id": "最大输出交流功率",
+      "label": "最大输出交流功率"
+    },
+    {
+      "id": "晶体管耗散功率",
+      "label": "晶体管耗散功率"
+    },
+    {
+      "id": "电源消耗的功率",
+      "label": "电源消耗的功率"
+    },
+    {
+      "id": "振荡频率",
+      "label": "振荡频率"
+    },
+    {
+      "id": "中心频率",
+      "label": "中心频率"
+    },
+    {
+      "id": "特征频率",
+      "label": "特征频率"
+    },
+    {
+      "id": "滤波电路",
+      "label": "滤波电路"
+    },
+    {
+      "id": "放大电路",
+      "label": "放大电路"
+    },
+    {
+      "id": "U_o",
+      "label": "U_o"
+    },
+    {
+      "id": "U_i",
+      "label": "U_i"
+    },
+    {
+      "id": "U_s",
+      "label": "U_s"
+    },
+    {
+      "id": "U",
+      "label": "U"
+    },
+    {
+      "id": "I",
+      "label": "I"
+    },
+    {
+      "id": "u",
+      "label": "u"
+    },
+    {
+      "id": "i",
+      "label": "i"
+    },
+    {
+      "id": "有源滤波电路",
+      "label": "有源滤波电路"
+    },
+    {
+      "id": "共模输入",
+      "label": "共模输入"
+    },
+    {
+      "id": "差模输入",
+      "label": "差模输入"
+    },
+    {
+      "id": "高频信号",
+      "label": "高频信号"
+    },
+    {
+      "id": "低频信号",
+      "label": "低频信号"
+    },
+    {
+      "id": "中频信号",
+      "label": "中频信号"
+    },
+    {
+      "id": "电源",
+      "label": "电源"
+    },
+    {
+      "id": "差分放大电路",
+      "label": "差分放大电路"
+    },
+    {
+      "id": "振荡电路",
+      "label": "振荡电路"
+    },
+    {
+      "id": "功率放大电路",
+      "label": "功率放大电路"
+    },
+    {
+      "id": "电源电路",
+      "label": "电源电路"
+    },
+    {
+      "id": "负载电路",
+      "label": "负载电路"
+    },
+    {
+      "id": "输入电路",
+      "label": "输入电路"
+    },
+    {
+      "id": "输出电路",
+      "label": "输出电路"
+    },
+    {
+      "id": "信号源电路",
+      "label": "信号源电路"
+    },
+    {
+      "id": "反相放大电路",
+      "label": "反相放大电路"
+    },
+    {
+      "id": "同相放大电路",
+      "label": "同相放大电路"
+    },
+    {
+      "id": "偏置电路",
+      "label": "偏置电路"
+    },
+    {
+      "id": "增益",
+      "label": "增益"
+    },
+    {
+      "id": "电压增益",
+      "label": "电压增益"
+    },
+    {
+      "id": "共模增益",
+      "label": "共模增益"
+    },
+    {
+      "id": "差模增益",
+      "label": "差模增益"
+    },
+    {
+      "id": "高频增益",
+      "label": "高频增益"
+    },
+    {
+      "id": "低频增益",
+      "label": "低频增益"
+    },
+    {
+      "id": "中频增益",
+      "label": "中频增益"
+    },
+    {
+      "id": "通带增益",
+      "label": "通带增益"
+    },
+    {
+      "id": "功率",
+      "label": "功率"
+    },
+    {
+      "id": "输出功率",
+      "label": "输出功率"
+    },
+    {
+      "id": "最大输出功率",
+      "label": "最大输出功率"
+    },
+    {
+      "id": "耗散功率",
+      "label": "耗散功率"
+    },
+    {
+      "id": "电源功率",
+      "label": "电源功率"
+    },
+    {
+      "id": "频率响应",
+      "label": "频率响应"
+    },
+    {
+      "id": "上限频率",
+      "label": "上限频率"
+    },
+    {
+      "id": "下限频率",
+      "label": "下限频率"
+    },
+    {
+      "id": "带宽",
+      "label": "带宽"
+    },
+    {
+      "id": "截止频率",
+      "label": "截止频率"
+    },
+    {
+      "id": "电阻值",
+      "label": "电阻值"
+    },
+    {
+      "id": "输入阻抗",
+      "label": "输入阻抗"
+    },
+    {
+      "id": "输出阻抗",
+      "label": "输出阻抗"
+    },
+    {
+      "id": "负载阻抗",
+      "label": "负载阻抗"
+    },
+    {
+      "id": "信号源内阻",
+      "label": "信号源内阻"
+    },
+    {
+      "id": "反相输入等效电阻",
+      "label": "反相输入等效电阻"
+    },
+    {
+      "id": "同相输入等效电阻",
+      "label": "同相输入等效电阻"
+    },
+    {
+      "id": "基极偏置电阻",
+      "label": "基极偏置电阻"
+    },
+    {
+      "id": "集电极偏置电阻",
+      "label": "集电极偏置电阻"
+    },
+    {
+      "id": "发射极偏置电阻",
+      "label": "发射极偏置电阻"
+    },
+    {
+      "id": "栅极偏置电阻",
+      "label": "栅极偏置电阻"
+    },
+    {
+      "id": "漏极偏置电阻",
+      "label": "漏极偏置电阻"
+    },
+    {
+      "id": "源极偏置电阻",
+      "label": "源极偏置电阻"
+    },
+    {
+      "id": "电容值",
+      "label": "电容值"
+    },
+    {
+      "id": "电感值",
+      "label": "电感值"
+    },
+    {
+      "id": "电导值",
+      "label": "电导值"
+    },
+    {
+      "id": "角频率",
+      "label": "角频率"
+    },
+    {
+      "id": "瞬时功率",
+      "label": "瞬时功率"
+    },
+    {
+      "id": "输出电压",
+      "label": "输出电压"
+    },
+    {
+      "id": "输入电压",
+      "label": "输入电压"
+    },
+    {
+      "id": "信号源电压",
+      "label": "信号源电压"
+    },
+    {
+      "id": "电流",
+      "label": "电流"
+    },
+    {
+      "id": "二极管",
+      "label": "二极管"
+    },
+    {
+      "id": "稳压二极管",
+      "label": "稳压二极管"
+    },
+    {
+      "id": "晶体管",
+      "label": "晶体管"
+    },
+    {
+      "id": "势垒电容",
+      "label": "势垒电容"
+    },
+    {
+      "id": "扩散电容",
+      "label": "扩散电容"
+    },
+    {
+      "id": "结电容",
+      "label": "结电容"
+    },
+    {
+      "id": "动态电阻",
+      "label": "动态电阻"
+    },
+    {
+      "id": "开启电压",
+      "label": "开启电压"
+    },
+    {
+      "id": "击穿电压",
+      "label": "击穿电压"
+    },
+    {
+      "id": "反向饱和电流",
+      "label": "反向饱和电流"
+    },
+    {
+      "id": "电流放大系数",
+      "label": "电流放大系数"
+    },
+    {
+      "id": "跨导",
+      "label": "跨导"
+    },
+    {
+      "id": "h参数",
+      "label": "h参数"
+    },
+    {
+      "id": "PWM调制",
+      "label": "PWM调制"
+    },
+    {
+      "id": "比较器",
+      "label": "比较器"
+    },
+    {
+      "id": "LED调光",
+      "label": "LED调光"
+    },
+    {
+      "id": "应用",
+      "label": "应用"
+    },
+    {
+      "id": "整流电路",
+      "label": "整流电路"
+    },
+    {
+      "id": "电压调节",
+      "label": "电压调节"
+    },
+    {
+      "id": "开关控制",
+      "label": "开关控制"
+    },
+    {
+      "id": "PN结",
+      "label": "PN结"
+    },
+    {
+      "id": "运算放大器",
+      "label": "运算放大器"
+    },
+    {
+      "id": "整流平均电流",
+      "label": "整流平均电流"
+    },
+    {
+      "id": "反向电流",
+      "label": "反向电流"
+    },
+    {
+      "id": "开关电路",
+      "label": "开关电路"
+    },
+    {
+      "id": "稳压电路",
+      "label": "稳压电路"
+    },
+    {
+      "id": "基极",
+      "label": "基极"
+    },
+    {
+      "id": "集电极",
+      "label": "集电极"
+    },
+    {
+      "id": "发射极",
+      "label": "发射极"
+    },
+    {
+      "id": "P型半导体",
+      "label": "P型半导体"
+    },
+    {
+      "id": "N型半导体",
+      "label": "N型半导体"
+    },
+    {
+      "id": "电压信号",
+      "label": "电压信号"
+    },
+    {
+      "id": "电流信号",
+      "label": "电流信号"
+    },
+    {
+      "id": "方波",
+      "label": "方波"
+    },
+    {
+      "id": "三角波",
+      "label": "三角波"
+    },
+    {
+      "id": "共模抑制比",
+      "label": "共模抑制比"
+    },
+    {
+      "id": "转换速率",
+      "label": "转换速率"
+    },
+    {
+      "id": "输入失调电压",
+      "label": "输入失调电压"
+    },
+    {
+      "id": "开环差模增益",
+      "label": "开环差模增益"
+    },
+    {
+      "id": "单位增益带宽",
+      "label": "单位增益带宽"
+    },
+    {
+      "id": "-3dB带宽",
+      "label": "-3dB带宽"
+    },
+    {
+      "id": "夹断电压",
+      "label": "夹断电压"
+    },
+    {
+      "id": "耗尽型场效应管",
+      "label": "耗尽型场效应管"
+    },
+    {
+      "id": "增强型MOS管",
+      "label": "增强型MOS管"
+    },
+    {
+      "id": "等效电容",
+      "label": "等效电容"
+    },
+    {
+      "id": "漏极电流",
+      "label": "漏极电流"
+    },
+    {
+      "id": "源极电流",
+      "label": "源极电流"
+    },
+    {
+      "id": "静态工作点",
+      "label": "静态工作点"
+    },
+    {
+      "id": "脉动系数",
+      "label": "脉动系数"
+    },
+    {
+      "id": "稳压系数",
+      "label": "稳压系数"
+    },
+    {
+      "id": "噪声系数",
+      "label": "噪声系数"
+    },
+    {
+      "id": "非线性失真系数",
+      "label": "非线性失真系数"
+    },
+    {
+      "id": "热力学温度",
+      "label": "热力学温度"
+    },
+    {
+      "id": "温漂",
+      "label": "温漂"
+    },
+    {
+      "id": "输入失调电流",
+      "label": "输入失调电流"
+    },
+    {
+      "id": "光电三极管",
+      "label": "光电三极管"
+    },
+    {
+      "id": "结型场效应管",
+      "label": "结型场效应管"
+    },
+    {
+      "id": "共射放大电路",
+      "label": "共射放大电路"
+    },
+    {
+      "id": "放大的概念",
+      "label": "放大的概念"
+    },
+    {
+      "id": "晶体管单管放大电路",
+      "label": "晶体管单管放大电路"
+    },
+    {
+      "id": "共集放大电路",
+      "label": "共集放大电路"
+    },
+    {
+      "id": "共基放大电路",
+      "label": "共基放大电路"
+    },
+    {
+      "id": "场效应管放大电路",
+      "label": "场效应管放大电路"
+    },
+    {
+      "id": "复合管放大电路",
+      "label": "复合管放大电路"
+    },
+    {
+      "id": "共射－共基放大电路",
+      "label": "共射－共基放大电路"
+    },
+    {
+      "id": "共集－共基放大电路",
+      "label": "共集－共基放大电路"
+    },
+    {
+      "id": "共源放大电路",
+      "label": "共源放大电路"
+    },
+    {
+      "id": "Multisim",
+      "label": "Multisim"
+    },
+    {
+      "id": "直流扫描分析",
+      "label": "直流扫描分析"
+    },
+    {
+      "id": "电压传输特性测试",
+      "label": "电压传输特性测试"
+    },
+    {
+      "id": "参数扫描分析",
+      "label": "参数扫描分析"
+    },
+    {
+      "id": "静态工作点影响研究",
+      "label": "静态工作点影响研究"
+    },
+    {
+      "id": "电压放大倍数分析",
+      "label": "电压放大倍数分析"
+    },
+    {
+      "id": "电阻",
+      "label": "电阻"
+    },
+    {
+      "id": "电源电压",
+      "label": "电源电压"
+    },
+    {
+      "id": "电压放大倍数",
+      "label": "电压放大倍数"
+    },
+    {
+      "id": "负载电阻",
+      "label": "负载电阻"
+    },
+    {
+      "id": "晶体管参数",
+      "label": "晶体管参数"
+    },
+    {
+      "id": "集成运算放大电路",
+      "label": "集成运算放大电路"
+    },
+    {
+      "id": "电流源电路",
+      "label": "电流源电路"
+    },
+    {
+      "id": "直接耦合互补输出级",
+      "label": "直接耦合互补输出级"
+    },
+    {
+      "id": "多级放大电路",
+      "label": "多级放大电路"
+    },
+    {
+      "id": "PWM信号",
+      "label": "PWM信号"
+    },
+    {
+      "id": "偏置电流",
+      "label": "偏置电流"
+    },
+    {
+      "id": "波特图",
+      "label": "波特图"
+    },
+    {
+      "id": "晶体管高频等效模型",
+      "label": "晶体管高频等效模型"
+    },
+    {
+      "id": "场效应管高频等效模型",
+      "label": "场效应管高频等效模型"
+    },
+    {
+      "id": "单管放大电路结构",
+      "label": "单管放大电路结构"
+    },
+    {
+      "id": "增益带宽积",
+      "label": "增益带宽积"
+    },
+    {
+      "id": "频率响应改善",
+      "label": "频率响应改善"
+    },
+    {
+      "id": "负反馈放大电路",
+      "label": "负反馈放大电路"
+    },
+    {
+      "id": "反馈网络",
+      "label": "反馈网络"
+    },
+    {
+      "id": "理想运放",
+      "label": "理想运放"
+    },
+    {
+      "id": "放大倍数",
+      "label": "放大倍数"
+    },
+    {
+      "id": "输入电阻",
+      "label": "输入电阻"
+    },
+    {
+      "id": "输出电阻",
+      "label": "输出电阻"
+    },
+    {
+      "id": "稳定性",
+      "label": "稳定性"
+    },
+    {
+      "id": "自激振荡",
+      "label": "自激振荡"
+    },
+    {
+      "id": "正反馈",
+      "label": "正反馈"
+    },
+    {
+      "id": "电流反馈运算放大电路",
+      "label": "电流反馈运算放大电路"
+    },
+    {
+      "id": "交流负反馈",
+      "label": "交流负反馈"
+    },
+    {
+      "id": "频率特性",
+      "label": "频率特性"
+    },
+    {
+      "id": "开环放大倍数",
+      "label": "开环放大倍数"
+    },
+    {
+      "id": "闭环放大倍数",
+      "label": "闭环放大倍数"
+    },
+    {
+      "id": "频率补偿",
+      "label": "频率补偿"
+    },
+    {
+      "id": "比例运算电路",
+      "label": "比例运算电路"
+    },
+    {
+      "id": "基本运算电路",
+      "label": "基本运算电路"
+    },
+    {
+      "id": "加减运算电路",
+      "label": "加减运算电路"
+    },
+    {
+      "id": "积分运算电路",
+      "label": "积分运算电路"
+    },
+    {
+      "id": "微分运算电路",
+      "label": "微分运算电路"
+    },
+    {
+      "id": "对数运算电路",
+      "label": "对数运算电路"
+    },
+    {
+      "id": "指数运算电路",
+      "label": "指数运算电路"
+    },
+    {
+      "id": "乘法运算电路",
+      "label": "乘法运算电路"
+    },
+    {
+      "id": "除法运算电路",
+      "label": "除法运算电路"
+    },
+    {
+      "id": "模拟乘法器",
+      "label": "模拟乘法器"
+    },
+    {
+      "id": "运算电路",
+      "label": "运算电路"
+    },
+    {
+      "id": "低通滤波器",
+      "label": "低通滤波器"
+    },
+    {
+      "id": "开关电容滤波器",
+      "label": "开关电容滤波器"
+    },
+    {
+      "id": "状态变量型有源滤波器",
+      "label": "状态变量型有源滤波器"
+    },
+    {
+      "id": "仪表放大器",
+      "label": "仪表放大器"
+    },
+    {
+      "id": "电荷放大器",
+      "label": "电荷放大器"
+    },
+    {
+      "id": "隔离放大器",
+      "label": "隔离放大器"
+    },
+    {
+      "id": "压控电压源二阶LPF",
+      "label": "压控电压源二阶LPF"
+    },
+    {
+      "id": "电子信息系统预处理",
+      "label": "电子信息系统预处理"
+    },
+    {
+      "id": "求解方程",
+      "label": "求解方程"
+    },
+    {
+      "id": "正弦波振荡电路",
+      "label": "正弦波振荡电路"
+    },
+    {
+      "id": "矩形波发生电路",
+      "label": "矩形波发生电路"
+    },
+    {
+      "id": "三角波发生电路",
+      "label": "三角波发生电路"
+    },
+    {
+      "id": "锯齿波发生电路",
+      "label": "锯齿波发生电路"
+    },
+    {
+      "id": "波形变换电路",
+      "label": "波形变换电路"
+    },
+    {
+      "id": "函数发生器",
+      "label": "函数发生器"
+    },
+    {
+      "id": "RC 正弦波振荡电路",
+      "label": "RC 正弦波振荡电路"
+    },
+    {
+      "id": "LC 正弦波振荡电路",
+      "label": "LC 正弦波振荡电路"
+    },
+    {
+      "id": "石英晶体正弦波振荡电路",
+      "label": "石英晶体正弦波振荡电路"
+    },
+    {
+      "id": "单限比较器",
+      "label": "单限比较器"
+    },
+    {
+      "id": "滞回比较器",
+      "label": "滞回比较器"
+    },
+    {
+      "id": "钳位比较器",
+      "label": "钳位比较器"
+    },
+    {
+      "id": "负反馈电压比较器",
+      "label": "负反馈电压比较器"
+    },
+    {
+      "id": "正弦波",
+      "label": "正弦波"
+    },
+    {
+      "id": "矩形波",
+      "label": "矩形波"
+    },
+    {
+      "id": "锯齿波",
+      "label": "锯齿波"
+    },
+    {
+      "id": "多种波形",
+      "label": "多种波形"
+    },
+    {
+      "id": "信号转换",
+      "label": "信号转换"
+    },
+    {
+      "id": "非正弦波发生电路",
+      "label": "非正弦波发生电路"
+    },
+    {
+      "id": "非正弦波",
+      "label": "非正弦波"
+    },
+    {
+      "id": "波形的发生",
+      "label": "波形的发生"
+    },
+    {
+      "id": "电压-电流转换电路",
+      "label": "电压-电流转换电路"
+    },
+    {
+      "id": "精密整流电路",
+      "label": "精密整流电路"
+    },
+    {
+      "id": "电压-频率转换电路",
+      "label": "电压-频率转换电路"
+    },
+    {
+      "id": "RC桥式正弦波振荡电路",
+      "label": "RC桥式正弦波振荡电路"
+    },
+    {
+      "id": "压控振荡电路",
+      "label": "压控振荡电路"
+    },
+    {
+      "id": "OCL电路",
+      "label": "OCL电路"
+    },
+    {
+      "id": "直流电源",
+      "label": "直流电源"
+    },
+    {
+      "id": "散热问题",
+      "label": "散热问题"
+    },
+    {
+      "id": "二次击穿",
+      "label": "二次击穿"
+    },
+    {
+      "id": "振荡信号",
+      "label": "振荡信号"
+    },
+    {
+      "id": "效率",
+      "label": "效率"
+    },
+    {
+      "id": "稳压管稳压电路",
+      "label": "稳压管稳压电路"
+    },
+    {
+      "id": "稳压原理",
+      "label": "稳压原理"
+    },
+    {
+      "id": "稳压管",
+      "label": "稳压管"
+    },
+    {
+      "id": "串联型稳压电路",
+      "label": "串联型稳压电路"
+    },
+    {
+      "id": "调整管",
+      "label": "调整管"
+    },
+    {
+      "id": "开关型稳压电路",
+      "label": "开关型稳压电路"
+    },
+    {
+      "id": "开关管",
+      "label": "开关管"
+    },
+    {
+      "id": "电容",
+      "label": "电容"
+    },
+    {
+      "id": "倍压整流电路",
+      "label": "倍压整流电路"
+    },
+    {
+      "id": "电容滤波电路",
+      "label": "电容滤波电路"
+    },
+    {
+      "id": "开关信号",
+      "label": "开关信号"
+    },
+    {
+      "id": "V7805",
+      "label": "V7805"
+    },
+    {
+      "id": "稳压",
+      "label": "稳压"
+    },
+    {
+      "id": "低频功率放大电路",
+      "label": "低频功率放大电路"
+    },
+    {
+      "id": "火灾报警电路",
+      "label": "火灾报警电路"
+    },
+    {
+      "id": "自动增益控制电路",
+      "label": "自动增益控制电路"
+    },
+    {
+      "id": "电容测量电路",
+      "label": "电容测量电路"
+    },
+    {
+      "id": "报警",
+      "label": "报警"
+    },
+    {
+      "id": "增益调节",
+      "label": "增益调节"
+    },
+    {
+      "id": "电容测量",
+      "label": "电容测量"
+    },
+    {
+      "id": "MOS管",
+      "label": "MOS管"
+    },
+    {
+      "id": "电信号",
+      "label": "电信号"
+    },
+    {
+      "id": "模拟信号",
+      "label": "模拟信号"
+    },
+    {
+      "id": "数字信号",
+      "label": "数字信号"
+    },
+    {
+      "id": "传感器",
+      "label": "传感器"
+    },
+    {
+      "id": "信息提取",
+      "label": "信息提取"
+    },
+    {
+      "id": "信息传送",
+      "label": "信息传送"
+    },
+    {
+      "id": "信息交换",
+      "label": "信息交换"
+    },
+    {
+      "id": "信息存储",
+      "label": "信息存储"
+    },
+    {
+      "id": "正弦波信号",
+      "label": "正弦波信号"
+    },
+    {
+      "id": "信号提取",
+      "label": "信号提取"
+    },
+    {
+      "id": "滤波",
+      "label": "滤波"
+    },
+    {
+      "id": "噪声抑制",
+      "label": "噪声抑制"
+    },
+    {
+      "id": "隔离",
+      "label": "隔离"
+    },
+    {
+      "id": "信号分离",
+      "label": "信号分离"
+    },
+    {
+      "id": "阻抗变换",
+      "label": "阻抗变换"
+    },
+    {
+      "id": "放大",
+      "label": "放大"
+    },
+    {
+      "id": "信号预处理",
+      "label": "信号预处理"
+    },
+    {
+      "id": "运算",
+      "label": "运算"
+    },
+    {
+      "id": "信号加工",
+      "label": "信号加工"
+    },
+    {
+      "id": "转换",
+      "label": "转换"
+    },
+    {
+      "id": "比较",
+      "label": "比较"
+    },
+    {
+      "id": "采样保持",
+      "label": "采样保持"
+    },
+    {
+      "id": "功率放大",
+      "label": "功率放大"
+    },
+    {
+      "id": "驱动执行机构",
+      "label": "驱动执行机构"
+    },
+    {
+      "id": "A/D转换器",
+      "label": "A/D转换器"
+    },
+    {
+      "id": "模-数转换",
+      "label": "模-数转换"
+    },
+    {
+      "id": "D/A转换器",
+      "label": "D/A转换器"
+    },
+    {
+      "id": "数-模转换",
+      "label": "数-模转换"
+    },
+    {
+      "id": "模拟系统",
+      "label": "模拟系统"
+    },
+    {
+      "id": "电子信息系统",
+      "label": "电子信息系统"
+    },
+    {
+      "id": "集成电路",
+      "label": "集成电路"
+    },
+    {
+      "id": "分立元件电路",
+      "label": "分立元件电路"
+    },
+    {
+      "id": "大规模集成电路",
+      "label": "大规模集成电路"
+    },
+    {
+      "id": "小规模集成电路",
+      "label": "小规模集成电路"
+    },
+    {
+      "id": "电磁兼容性",
+      "label": "电磁兼容性"
+    },
+    {
+      "id": "屏蔽",
+      "label": "屏蔽"
+    },
+    {
+      "id": "接地",
+      "label": "接地"
+    },
+    {
+      "id": "去耦",
+      "label": "去耦"
+    },
+    {
+      "id": "抗干扰能力",
+      "label": "抗干扰能力"
+    },
+    {
+      "id": "可靠性",
+      "label": "可靠性"
+    },
+    {
+      "id": "电路简单性",
+      "label": "电路简单性"
+    },
+    {
+      "id": "可测性",
+      "label": "可测性"
+    },
+    {
+      "id": "测试点引出",
+      "label": "测试点引出"
+    },
+    {
+      "id": "自检电路",
+      "label": "自检电路"
+    },
+    {
+      "id": "测试激励信号",
+      "label": "测试激励信号"
+    },
+    {
+      "id": "信号转换电路",
+      "label": "信号转换电路"
+    },
+    {
+      "id": "信号发生电路",
+      "label": "信号发生电路"
+    },
+    {
+      "id": "直流电",
+      "label": "直流电"
+    },
+    {
+      "id": "交流电",
+      "label": "交流电"
+    },
+    {
+      "id": "基本电路",
+      "label": "基本电路"
+    },
+    {
+      "id": "EDA",
+      "label": "EDA"
+    },
+    {
+      "id": "电子电路精确求解",
+      "label": "电子电路精确求解"
+    },
+    {
+      "id": "基尔霍夫定理",
+      "label": "基尔霍夫定理"
+    },
+    {
+      "id": "模拟电子电路",
+      "label": "模拟电子电路"
+    },
+    {
+      "id": "戴维宁定理",
+      "label": "戴维宁定理"
+    },
+    {
+      "id": "诺顿定理",
+      "label": "诺顿定理"
+    },
+    {
+      "id": "半导体器件",
+      "label": "半导体器件"
+    },
+    {
+      "id": "等效电路",
+      "label": "等效电路"
+    },
+    {
+      "id": "模拟电子电路分析",
+      "label": "模拟电子电路分析"
+    },
+    {
+      "id": "SPICE",
+      "label": "SPICE"
+    },
+    {
+      "id": "模拟电路分析",
+      "label": "模拟电路分析"
+    },
+    {
+      "id": "PSpice",
+      "label": "PSpice"
+    },
+    {
+      "id": "混合仿真",
+      "label": "混合仿真"
+    },
+    {
+      "id": "电路原理图输入程序",
+      "label": "电路原理图输入程序"
+    },
+    {
+      "id": "激励信号编辑程序",
+      "label": "激励信号编辑程序"
+    },
+    {
+      "id": "电路仿真程序",
+      "label": "电路仿真程序"
+    },
+    {
+      "id": "输出结果绘图程序",
+      "label": "输出结果绘图程序"
+    },
+    {
+      "id": "模型参数提取程序",
+      "label": "模型参数提取程序"
+    },
+    {
+      "id": "元器件模型参数库",
+      "label": "元器件模型参数库"
+    },
+    {
+      "id": "集成电路模型",
+      "label": "集成电路模型"
+    },
+    {
+      "id": "电路仿真",
+      "label": "电路仿真"
+    },
+    {
+      "id": "二极管库",
+      "label": "二极管库"
+    },
+    {
+      "id": "晶体管库",
+      "label": "晶体管库"
+    },
+    {
+      "id": "通用集成运放库",
+      "label": "通用集成运放库"
+    },
+    {
+      "id": "晶体振荡器库",
+      "label": "晶体振荡器库"
+    },
+    {
+      "id": "74系列元器件模型库",
+      "label": "74系列元器件模型库"
+    },
+    {
+      "id": "PAL元器件模型库",
+      "label": "PAL元器件模型库"
+    },
+    {
+      "id": "GAL元器件模型库",
+      "label": "GAL元器件模型库"
+    },
+    {
+      "id": "正弦波源",
+      "label": "正弦波源"
+    },
+    {
+      "id": "脉冲源",
+      "label": "脉冲源"
+    },
+    {
+      "id": "指数源",
+      "label": "指数源"
+    },
+    {
+      "id": "分段线性源",
+      "label": "分段线性源"
+    },
+    {
+      "id": "单频调频源",
+      "label": "单频调频源"
+    },
+    {
+      "id": "SPICE仿真系统",
+      "label": "SPICE仿真系统"
+    },
+    {
+      "id": "EWB",
+      "label": "EWB"
+    },
+    {
+      "id": "National Instruments",
+      "label": "National Instruments"
+    },
+    {
+      "id": "SPICE仿真器",
+      "label": "SPICE仿真器"
+    },
+    {
+      "id": "虚拟仪器仪表",
+      "label": "虚拟仪器仪表"
+    },
+    {
+      "id": "万用表",
+      "label": "万用表"
+    },
+    {
+      "id": "信号发生器",
+      "label": "信号发生器"
+    },
+    {
+      "id": "示波器",
+      "label": "示波器"
+    },
+    {
+      "id": "频谱分析仪",
+      "label": "频谱分析仪"
+    },
+    {
+      "id": "网络分析仪",
+      "label": "网络分析仪"
+    },
+    {
+      "id": "失真分析仪",
+      "label": "失真分析仪"
+    },
+    {
+      "id": "频率计",
+      "label": "频率计"
+    },
+    {
+      "id": "逻辑分析仪",
+      "label": "逻辑分析仪"
+    },
+    {
+      "id": "逻辑转换仪",
+      "label": "逻辑转换仪"
+    },
+    {
+      "id": "波特图仪",
+      "label": "波特图仪"
+    },
+    {
+      "id": "瓦特表",
+      "label": "瓦特表"
+    },
+    {
+      "id": "模拟电子技术基础课",
+      "label": "模拟电子技术基础课"
+    },
+    {
+      "id": "图形化界面",
+      "label": "图形化界面"
+    },
+    {
+      "id": "网络表",
+      "label": "网络表"
+    },
+    {
+      "id": "本征半导体",
+      "label": "本征半导体"
+    },
+    {
+      "id": "硅",
+      "label": "硅"
+    },
+    {
+      "id": "锗",
+      "label": "锗"
+    },
+    {
+      "id": "单向导电性",
+      "label": "单向导电性"
+    },
+    {
+      "id": "温度影响",
+      "label": "温度影响"
+    },
+    {
+      "id": "半导体材料",
+      "label": "半导体材料"
+    },
+    {
+      "id": "半导体",
+      "label": "半导体"
+    },
+    {
+      "id": "自由电子",
+      "label": "自由电子"
+    },
+    {
+      "id": "载流子",
+      "label": "载流子"
+    },
+    {
+      "id": "空穴",
+      "label": "空穴"
+    },
+    {
+      "id": "热激发",
+      "label": "热激发"
+    },
+    {
+      "id": "本征激发",
+      "label": "本征激发"
+    },
+    {
+      "id": "复合",
+      "label": "复合"
+    }
+  ],
+  "edges": [
+    {
+      "source": "电压比较器",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电压比较器",
+      "target": "信号转换",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "阈值电压",
+      "target": "电压比较器",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "输出高电平",
+      "target": "电压比较器",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "输出低电平",
+      "target": "电压比较器",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "集成运放同相输入端",
+      "target": "集成运放",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "集成运放",
+      "target": "负反馈",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运放",
+      "target": "比较器",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运放",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "集成运放",
+      "target": "振荡电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "集成运放",
+      "target": "三极管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "LM358",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "频率补偿",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运放",
+      "target": "比例运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "加减运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "积分运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "微分运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "对数运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "指数运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "乘法运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "除法运算电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运放",
+      "target": "电压-电流转换电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运放",
+      "target": "精密整流电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运放",
+      "target": "电压-频率转换电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运放反相输入端",
+      "target": "集成运放",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "共模输入电压",
+      "target": "差分放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "差模输入电压",
+      "target": "差分放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "交流信号源电压",
+      "target": "交流输入电压",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "交流输入电压",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "反馈电流",
+      "target": "负反馈",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "负反馈",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "负反馈",
+      "target": "运算放大器",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "负反馈",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "负反馈",
+      "target": "比较器",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "负反馈",
+      "target": "反馈网络",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "负反馈",
+      "target": "理想运放",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "负反馈",
+      "target": "放大倍数",
+      "relation": "STABILIZES"
+    },
+    {
+      "source": "负反馈",
+      "target": "输入电阻",
+      "relation": "AFFECTS"
+    },
+    {
+      "source": "负反馈",
+      "target": "输出电阻",
+      "relation": "AFFECTS"
+    },
+    {
+      "source": "负反馈",
+      "target": "放大电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "负反馈",
+      "target": "稳定性",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "反馈电压",
+      "target": "负反馈",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "静态值",
+      "target": "直流偏置",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "直流偏置",
+      "target": "静态工作点设置",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "交流输入电流",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "信号放大",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "信号放大",
+      "target": "三极管",
+      "relation": "USES"
+    },
+    {
+      "source": "信号放大",
+      "target": "集成运放",
+      "relation": "USES"
+    },
+    {
+      "source": "信号放大",
+      "target": "电压信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "信号放大",
+      "target": "电流信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "交流输出电流",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "交流输出电压",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "基极回路电源",
+      "target": "三极管偏置",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "集电极回路电源",
+      "target": "三极管偏置",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "发射极回路电源",
+      "target": "三极管偏置",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "漏极回路电源",
+      "target": "场效应管偏置",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "源极回路电源",
+      "target": "场效应管偏置",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "LM358",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "LM358",
+      "target": "信号放大",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "LM358",
+      "target": "差分放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "LM358",
+      "target": "电流源电路",
+      "relation": "USES"
+    },
+    {
+      "source": "LM358",
+      "target": "直接耦合互补输出级",
+      "relation": "USES"
+    },
+    {
+      "source": "LM358",
+      "target": "比较器",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "LM358",
+      "target": "负反馈",
+      "relation": "USES"
+    },
+    {
+      "source": "NE555",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "NE555",
+      "target": "振荡电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "NE555",
+      "target": "PWM调制",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "NE555",
+      "target": "LED调光",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "NE555",
+      "target": "方波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "NE555",
+      "target": "PWM信号",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "NE555",
+      "target": "振荡信号",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "三极管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "三极管",
+      "target": "开关控制",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "三极管",
+      "target": "开关电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "三极管",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "三极管",
+      "target": "电流源电路",
+      "relation": "USES"
+    },
+    {
+      "source": "三极管",
+      "target": "差分放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "三极管",
+      "target": "直接耦合互补输出级",
+      "relation": "USES"
+    },
+    {
+      "source": "三极管",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "三极管",
+      "target": "信号放大",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "三极管",
+      "target": "功率放大电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "三极管",
+      "target": "散热问题",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "三极管",
+      "target": "二次击穿",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "三极管",
+      "target": "输出功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "三极管",
+      "target": "效率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "场效应管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "场效应管",
+      "target": "放大",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "R",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R",
+      "target": "电阻值",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "R",
+      "target": "滤波电路",
+      "relation": "USES"
+    },
+    {
+      "source": "R",
+      "target": "振荡电路",
+      "relation": "USES"
+    },
+    {
+      "source": "G",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "G",
+      "target": "电导值",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "G",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "C",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "C",
+      "target": "电容值",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "C",
+      "target": "滤波电路",
+      "relation": "USES"
+    },
+    {
+      "source": "C",
+      "target": "振荡电路",
+      "relation": "USES"
+    },
+    {
+      "source": "C",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "L",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "L",
+      "target": "电感值",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "L",
+      "target": "滤波电路",
+      "relation": "USES"
+    },
+    {
+      "source": "L",
+      "target": "振荡电路",
+      "relation": "USES"
+    },
+    {
+      "source": "L",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "A",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A",
+      "target": "R_i",
+      "relation": "USES"
+    },
+    {
+      "source": "A",
+      "target": "R_o",
+      "relation": "USES"
+    },
+    {
+      "source": "A",
+      "target": "放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "A",
+      "target": "增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_cm",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_cm",
+      "target": "共模电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_cm",
+      "target": "共模输入",
+      "relation": "USES"
+    },
+    {
+      "source": "A_cm",
+      "target": "差分放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "A_cm",
+      "target": "共模增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_dm",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_dm",
+      "target": "差模电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_dm",
+      "target": "差模输入",
+      "relation": "USES"
+    },
+    {
+      "source": "A_dm",
+      "target": "差分放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "A_dm",
+      "target": "差模增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_v",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_v",
+      "target": "电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_v",
+      "target": "U_o",
+      "relation": "USES"
+    },
+    {
+      "source": "A_v",
+      "target": "U_i",
+      "relation": "USES"
+    },
+    {
+      "source": "A_v",
+      "target": "放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "A_v",
+      "target": "电压增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_hf",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_hf",
+      "target": "高频电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_hf",
+      "target": "高频信号",
+      "relation": "USES"
+    },
+    {
+      "source": "A_hf",
+      "target": "高频增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_lf",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_lf",
+      "target": "低频电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_lf",
+      "target": "低频信号",
+      "relation": "USES"
+    },
+    {
+      "source": "A_lf",
+      "target": "低频增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_mf",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_mf",
+      "target": "中频电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_mf",
+      "target": "中频信号",
+      "relation": "USES"
+    },
+    {
+      "source": "A_mf",
+      "target": "中频增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_bp",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_bp",
+      "target": "通带电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_bp",
+      "target": "有源滤波电路",
+      "relation": "USES"
+    },
+    {
+      "source": "A_bp",
+      "target": "通带增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "A_vs",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "A_vs",
+      "target": "电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A_vs",
+      "target": "U_o",
+      "relation": "USES"
+    },
+    {
+      "source": "A_vs",
+      "target": "U_s",
+      "relation": "USES"
+    },
+    {
+      "source": "A_vs",
+      "target": "电压增益",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "P",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "P",
+      "target": "U",
+      "relation": "USES"
+    },
+    {
+      "source": "P",
+      "target": "I",
+      "relation": "USES"
+    },
+    {
+      "source": "P",
+      "target": "功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "p",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "p",
+      "target": "u",
+      "relation": "USES"
+    },
+    {
+      "source": "p",
+      "target": "i",
+      "relation": "USES"
+    },
+    {
+      "source": "p",
+      "target": "瞬时功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "P_o",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "P_o",
+      "target": "输出交流功率",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "P_o",
+      "target": "功率放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "P_o",
+      "target": "输出功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "P_om",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "P_om",
+      "target": "最大输出交流功率",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "P_om",
+      "target": "功率放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "P_om",
+      "target": "最大输出功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "P_c",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "P_c",
+      "target": "晶体管耗散功率",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "P_c",
+      "target": "三极管",
+      "relation": "USES"
+    },
+    {
+      "source": "P_c",
+      "target": "功率放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "P_c",
+      "target": "耗散功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "P_v",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "P_v",
+      "target": "电源消耗的功率",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "P_v",
+      "target": "电源",
+      "relation": "USES"
+    },
+    {
+      "source": "P_v",
+      "target": "电源电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "P_v",
+      "target": "电源功率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f",
+      "target": "频率响应",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f_bw",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f_bw",
+      "target": "放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "f_bw",
+      "target": "带宽",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f_0dB",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f_0dB",
+      "target": "放大电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "f_H",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f_H",
+      "target": "放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "f_H",
+      "target": "C",
+      "relation": "USES"
+    },
+    {
+      "source": "f_H",
+      "target": "上限频率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f_L",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f_L",
+      "target": "放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "f_L",
+      "target": "C",
+      "relation": "USES"
+    },
+    {
+      "source": "f_L",
+      "target": "下限频率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f_c",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f_c",
+      "target": "滤波电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "f_c",
+      "target": "截止频率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f_0",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "f_0",
+      "target": "振荡频率",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "f_0",
+      "target": "中心频率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "f_0",
+      "target": "特征频率",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "f_0",
+      "target": "L",
+      "relation": "USES"
+    },
+    {
+      "source": "f_0",
+      "target": "C",
+      "relation": "USES"
+    },
+    {
+      "source": "f_0",
+      "target": "振荡电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "f_0",
+      "target": "滤波电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "ω",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "ω",
+      "target": "f",
+      "relation": "USES"
+    },
+    {
+      "source": "ω",
+      "target": "角频率",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "ω",
+      "target": "L",
+      "relation": "USES"
+    },
+    {
+      "source": "ω",
+      "target": "C",
+      "relation": "USES"
+    },
+    {
+      "source": "R_i",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_i",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "R_i",
+      "target": "输入电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_i",
+      "target": "输入阻抗",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_if",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_o",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_o",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "R_o",
+      "target": "输出电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_o",
+      "target": "输出阻抗",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_of",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_s",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_s",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "R_s",
+      "target": "信号源电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_s",
+      "target": "信号源内阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_L",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_L",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "R_L",
+      "target": "负载电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_L",
+      "target": "负载阻抗",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_N",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_N",
+      "target": "集成运放",
+      "relation": "USES"
+    },
+    {
+      "source": "R_N",
+      "target": "反相放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_N",
+      "target": "反相输入等效电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_P",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_P",
+      "target": "集成运放",
+      "relation": "USES"
+    },
+    {
+      "source": "R_P",
+      "target": "同相放大电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_P",
+      "target": "同相输入等效电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_b",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_b",
+      "target": "三极管",
+      "relation": "USES"
+    },
+    {
+      "source": "R_b",
+      "target": "偏置电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_b",
+      "target": "基极偏置电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_c",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_c",
+      "target": "三极管",
+      "relation": "USES"
+    },
+    {
+      "source": "R_c",
+      "target": "偏置电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_c",
+      "target": "集电极偏置电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_e",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_e",
+      "target": "三极管",
+      "relation": "USES"
+    },
+    {
+      "source": "R_e",
+      "target": "偏置电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_e",
+      "target": "发射极偏置电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_g",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_g",
+      "target": "场效应管",
+      "relation": "USES"
+    },
+    {
+      "source": "R_g",
+      "target": "偏置电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_g",
+      "target": "栅极偏置电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_d",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_d",
+      "target": "场效应管",
+      "relation": "USES"
+    },
+    {
+      "source": "R_d",
+      "target": "偏置电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_d",
+      "target": "漏极偏置电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "R_s_fet",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "R_s_fet",
+      "target": "场效应管",
+      "relation": "USES"
+    },
+    {
+      "source": "R_s_fet",
+      "target": "偏置电路",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "R_s_fet",
+      "target": "源极偏置电阻",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "特征频率",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "特征频率",
+      "target": "晶体管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "滤波电路",
+      "target": "电容",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "滤波电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "滤波电路",
+      "target": "信号",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "放大电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "放大电路",
+      "target": "静态工作点",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "放大电路",
+      "target": "放大的概念",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "放大电路",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "放大电路",
+      "target": "频率响应",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "放大电路",
+      "target": "电子信息系统预处理",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "放大电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "放大电路",
+      "target": "放大电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "放大电路",
+      "target": "基本电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "U_o",
+      "target": "A_v",
+      "relation": "USES"
+    },
+    {
+      "source": "U_o",
+      "target": "A_vs",
+      "relation": "USES"
+    },
+    {
+      "source": "U_o",
+      "target": "输出电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "U_i",
+      "target": "R_i",
+      "relation": "USES"
+    },
+    {
+      "source": "U_i",
+      "target": "输入电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "U_s",
+      "target": "R_s",
+      "relation": "USES"
+    },
+    {
+      "source": "U_s",
+      "target": "信号源电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "u",
+      "target": "p",
+      "relation": "USES"
+    },
+    {
+      "source": "u",
+      "target": "电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "i",
+      "target": "p",
+      "relation": "USES"
+    },
+    {
+      "source": "i",
+      "target": "电流",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "有源滤波电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "差分放大电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "差分放大电路",
+      "target": "负反馈",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "差分放大电路",
+      "target": "电流源电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "差分放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "振荡电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "振荡电路",
+      "target": "NE555",
+      "relation": "USES"
+    },
+    {
+      "source": "振荡电路",
+      "target": "方波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "振荡电路",
+      "target": "三角波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "功率放大电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "频率响应",
+      "target": "晶体管高频等效模型",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "频率响应",
+      "target": "场效应管高频等效模型",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "频率响应",
+      "target": "单管放大电路结构",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "二极管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "二极管",
+      "target": "整流电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "二极管",
+      "target": "PN结",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "二极管",
+      "target": "整流平均电流",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "二极管",
+      "target": "反向电流",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "二极管",
+      "target": "P型半导体",
+      "relation": "USES"
+    },
+    {
+      "source": "二极管",
+      "target": "N型半导体",
+      "relation": "USES"
+    },
+    {
+      "source": "稳压二极管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "稳压二极管",
+      "target": "电压调节",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "稳压二极管",
+      "target": "电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "稳压二极管",
+      "target": "稳压电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "晶体管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "晶体管",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "晶体管",
+      "target": "PN结",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "晶体管",
+      "target": "电流",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "晶体管",
+      "target": "电压",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "晶体管",
+      "target": "基极",
+      "relation": "USES"
+    },
+    {
+      "source": "晶体管",
+      "target": "集电极",
+      "relation": "USES"
+    },
+    {
+      "source": "晶体管",
+      "target": "发射极",
+      "relation": "USES"
+    },
+    {
+      "source": "晶体管",
+      "target": "放大",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "势垒电容",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "势垒电容",
+      "target": "PN结",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "扩散电容",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "扩散电容",
+      "target": "PN结",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "结电容",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "结电容",
+      "target": "PN结",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "动态电阻",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "动态电阻",
+      "target": "二极管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "动态电阻",
+      "target": "三极管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "开启电压",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "开启电压",
+      "target": "增强型MOS管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "击穿电压",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "击穿电压",
+      "target": "三极管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "反向饱和电流",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电流放大系数",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电流放大系数",
+      "target": "晶体管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "跨导",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "跨导",
+      "target": "晶体管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "跨导",
+      "target": "场效应管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "h参数",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "h参数",
+      "target": "晶体管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PWM调制",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "PWM调制",
+      "target": "信号放大",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "PWM调制",
+      "target": "比较器",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PWM调制",
+      "target": "开关信号",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "比较器",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "比较器",
+      "target": "运算放大器",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "比较器",
+      "target": "集成运放",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "LED调光",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "LED调光",
+      "target": "PWM调制",
+      "relation": "USES"
+    },
+    {
+      "source": "整流电路",
+      "target": "稳压电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "整流电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "PN结",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "PN结",
+      "target": "P型半导体",
+      "relation": "USES"
+    },
+    {
+      "source": "PN结",
+      "target": "N型半导体",
+      "relation": "USES"
+    },
+    {
+      "source": "PN结",
+      "target": "单向导电性",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "运算放大器",
+      "target": "负反馈",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "运算放大器",
+      "target": "比较器",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "稳压电路",
+      "target": "输出电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "共模抑制比",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "转换速率",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "输入失调电压",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "开环差模增益",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "单位增益带宽",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "-3dB带宽",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "夹断电压",
+      "target": "耗尽型场效应管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "等效电容",
+      "target": "场效应管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "漏极电流",
+      "target": "场效应管",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "源极电流",
+      "target": "场效应管",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "静态工作点",
+      "target": "三极管",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "静态工作点",
+      "target": "场效应管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "静态工作点",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "静态工作点",
+      "target": "偏置电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "静态工作点",
+      "target": "电阻",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "静态工作点",
+      "target": "电源电压",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "脉动系数",
+      "target": "整流电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "稳压系数",
+      "target": "稳压电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "噪声系数",
+      "target": "整流电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "噪声系数",
+      "target": "稳压电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "非线性失真系数",
+      "target": "放大电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "热力学温度",
+      "target": "温漂",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "温漂",
+      "target": "输入失调电压",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "温漂",
+      "target": "输入失调电流",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "光电三极管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "结型场效应管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共射放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共射放大电路",
+      "target": "信号放大",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "共射放大电路",
+      "target": "电压传输特性测试",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "共射放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "晶体管单管放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共集放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共集放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "共基放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共基放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "场效应管放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "场效应管放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "复合管放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "复合管放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "共射－共基放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共射－共基放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "共集－共基放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共集－共基放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "共源放大电路",
+      "target": "场效应管放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "共源放大电路",
+      "target": "电压放大倍数分析",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "共源放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "共源放大电路",
+      "target": "放大电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "Multisim",
+      "target": "放大电路",
+      "relation": "USES"
+    },
+    {
+      "source": "Multisim",
+      "target": "电路仿真",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "Multisim",
+      "target": "SPICE仿真系统",
+      "relation": "IS_A"
+    },
+    {
+      "source": "Multisim",
+      "target": "National Instruments",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "Multisim",
+      "target": "SPICE仿真器",
+      "relation": "USES"
+    },
+    {
+      "source": "Multisim",
+      "target": "虚拟仪器仪表",
+      "relation": "USES"
+    },
+    {
+      "source": "Multisim",
+      "target": "模拟电子技术基础课",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "Multisim",
+      "target": "图形化界面",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "Multisim",
+      "target": "网络表",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "直流扫描分析",
+      "target": "电压传输特性测试",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "参数扫描分析",
+      "target": "静态工作点影响研究",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "电压放大倍数",
+      "target": "静态工作点",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "电压放大倍数",
+      "target": "负载电阻",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "电压放大倍数",
+      "target": "晶体管参数",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "信号放大",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "比较器",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "振荡电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "差分放大电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "电流源电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "直接耦合互补输出级",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "集成运算放大电路",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "电流源电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电流源电路",
+      "target": "偏置电流",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "直接耦合互补输出级",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "直接耦合互补输出级",
+      "target": "差分放大电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "多级放大电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "波特图",
+      "target": "频率响应",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "增益带宽积",
+      "target": "频率响应改善",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "负反馈放大电路",
+      "target": "负反馈",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "负反馈放大电路",
+      "target": "信号放大",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "自激振荡",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "自激振荡",
+      "target": "负反馈放大电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "正反馈",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "正反馈",
+      "target": "放大电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "电流反馈运算放大电路",
+      "target": "正反馈",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "交流负反馈",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "交流负反馈",
+      "target": "频率特性",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "开环放大倍数",
+      "target": "闭环放大倍数",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "闭环放大倍数",
+      "target": "开环放大倍数",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "频率补偿",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "频率补偿",
+      "target": "集成运放",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "比例运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "加减运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "积分运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "微分运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "对数运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "指数运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "乘法运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "除法运算电路",
+      "target": "基本运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "模拟乘法器",
+      "target": "乘法运算电路",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "模拟乘法器",
+      "target": "运算电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "运算电路",
+      "target": "求解方程",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "运算电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "运算电路",
+      "target": "信号",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "低通滤波器",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "开关电容滤波器",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "状态变量型有源滤波器",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "仪表放大器",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电荷放大器",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "隔离放大器",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "压控电压源二阶LPF",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "正弦波振荡电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "正弦波振荡电路",
+      "target": "正弦波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "正弦波振荡电路",
+      "target": "波形的发生",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "矩形波发生电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "矩形波发生电路",
+      "target": "矩形波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "三角波发生电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "三角波发生电路",
+      "target": "三角波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "锯齿波发生电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "锯齿波发生电路",
+      "target": "锯齿波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "波形变换电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "波形变换电路",
+      "target": "信号转换",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "函数发生器",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "函数发生器",
+      "target": "多种波形",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "RC 正弦波振荡电路",
+      "target": "正弦波振荡电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "LC 正弦波振荡电路",
+      "target": "正弦波振荡电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "石英晶体正弦波振荡电路",
+      "target": "正弦波振荡电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "单限比较器",
+      "target": "电压比较器",
+      "relation": "IS_A"
+    },
+    {
+      "source": "滞回比较器",
+      "target": "电压比较器",
+      "relation": "IS_A"
+    },
+    {
+      "source": "滞回比较器",
+      "target": "比较器",
+      "relation": "IS_A"
+    },
+    {
+      "source": "钳位比较器",
+      "target": "电压比较器",
+      "relation": "IS_A"
+    },
+    {
+      "source": "负反馈电压比较器",
+      "target": "电压比较器",
+      "relation": "IS_A"
+    },
+    {
+      "source": "非正弦波发生电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "非正弦波发生电路",
+      "target": "非正弦波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "RC桥式正弦波振荡电路",
+      "target": "振荡电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "压控振荡电路",
+      "target": "振荡电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "OCL电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "直流电源",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "直流电源",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "直流电源",
+      "target": "直流电",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "直流电源",
+      "target": "交流电",
+      "relation": "CONVERTS"
+    },
+    {
+      "source": "稳压管稳压电路",
+      "target": "稳压原理",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "稳压管稳压电路",
+      "target": "稳压管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "稳压管",
+      "target": "电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "串联型稳压电路",
+      "target": "稳压原理",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "串联型稳压电路",
+      "target": "调整管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "调整管",
+      "target": "电压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "开关型稳压电路",
+      "target": "PWM调制",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "开关型稳压电路",
+      "target": "开关管",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "倍压整流电路",
+      "target": "滤波电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电容滤波电路",
+      "target": "滤波电路",
+      "relation": "IS_A"
+    },
+    {
+      "source": "V7805",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "V7805",
+      "target": "稳压",
+      "relation": "REGULATES"
+    },
+    {
+      "source": "低频功率放大电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "低频功率放大电路",
+      "target": "信号放大",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "火灾报警电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "火灾报警电路",
+      "target": "报警",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "自动增益控制电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "自动增益控制电路",
+      "target": "增益调节",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "电容测量电路",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电容测量电路",
+      "target": "电容测量",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "MOS管",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电信号",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电信号",
+      "target": "信息提取",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "电信号",
+      "target": "信息传送",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "电信号",
+      "target": "信息交换",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "电信号",
+      "target": "信息存储",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "模拟信号",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "数字信号",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "传感器",
+      "target": "电信号",
+      "relation": "USES"
+    },
+    {
+      "source": "传感器",
+      "target": "信号提取",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "传感器",
+      "target": "模拟信号",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "正弦波信号",
+      "target": "模拟信号",
+      "relation": "IS_A"
+    },
+    {
+      "source": "滤波",
+      "target": "噪声抑制",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "滤波",
+      "target": "电磁兼容性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "隔离",
+      "target": "信号分离",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "隔离",
+      "target": "电磁兼容性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "阻抗变换",
+      "target": "信号分离",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "放大",
+      "target": "信号预处理",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "放大",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "信号预处理",
+      "target": "放大",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "信号预处理",
+      "target": "滤波",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "信号预处理",
+      "target": "隔离",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "信号预处理",
+      "target": "阻抗变换",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "运算",
+      "target": "信号加工",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "信号加工",
+      "target": "运算",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "信号加工",
+      "target": "转换",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "信号加工",
+      "target": "比较",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "信号加工",
+      "target": "采样保持",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "转换",
+      "target": "信号加工",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "比较",
+      "target": "信号加工",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "采样保持",
+      "target": "信号加工",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "功率放大",
+      "target": "驱动执行机构",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "功率放大",
+      "target": "信号",
+      "relation": "AMPLIFIES"
+    },
+    {
+      "source": "A/D转换器",
+      "target": "模-数转换",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "A/D转换器",
+      "target": "模拟信号",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "D/A转换器",
+      "target": "数-模转换",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "D/A转换器",
+      "target": "数字信号",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "模拟系统",
+      "target": "电子信息系统",
+      "relation": "IS_A"
+    },
+    {
+      "source": "集成电路",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "分立元件电路",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "大规模集成电路",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "小规模集成电路",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "电磁兼容性",
+      "target": "电子信息系统",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "屏蔽",
+      "target": "电磁兼容性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "接地",
+      "target": "电磁兼容性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "去耦",
+      "target": "电磁兼容性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "抗干扰能力",
+      "target": "电磁兼容性",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "可靠性",
+      "target": "电路简单性",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "可测性",
+      "target": "测试点引出",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "可测性",
+      "target": "自检电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "自检电路",
+      "target": "可测性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "测试激励信号",
+      "target": "可测性",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "信号转换电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "信号转换电路",
+      "target": "信号",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "信号发生电路",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "信号发生电路",
+      "target": "正弦波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "信号发生电路",
+      "target": "矩形波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "信号发生电路",
+      "target": "三角波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "信号发生电路",
+      "target": "锯齿波",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "EDA",
+      "target": "应用",
+      "relation": "IS_A"
+    },
+    {
+      "source": "EDA",
+      "target": "电子电路精确求解",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "基尔霍夫定理",
+      "target": "模拟电子电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "戴维宁定理",
+      "target": "模拟电子电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "诺顿定理",
+      "target": "模拟电子电路",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "半导体器件",
+      "target": "等效电路",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "半导体器件",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "等效电路",
+      "target": "模拟电子电路分析",
+      "relation": "IMPLMENTS"
+    },
+    {
+      "source": "SPICE",
+      "target": "模拟电路分析",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "SPICE",
+      "target": "集成电路模型",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PSpice",
+      "target": "混合仿真",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "PSpice",
+      "target": "电路原理图输入程序",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "激励信号编辑程序",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "电路仿真程序",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "输出结果绘图程序",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "模型参数提取程序",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "元器件模型参数库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "SPICE",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PSpice",
+      "target": "电路仿真",
+      "relation": "IMPLEMENTS"
+    },
+    {
+      "source": "PSpice",
+      "target": "二极管库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "晶体管库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "通用集成运放库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "晶体振荡器库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "74系列元器件模型库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "PAL元器件模型库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "GAL元器件模型库",
+      "relation": "USES"
+    },
+    {
+      "source": "PSpice",
+      "target": "正弦波源",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PSpice",
+      "target": "脉冲源",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PSpice",
+      "target": "指数源",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PSpice",
+      "target": "分段线性源",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "PSpice",
+      "target": "单频调频源",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "EWB",
+      "target": "SPICE仿真系统",
+      "relation": "IS_A"
+    },
+    {
+      "source": "万用表",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "信号发生器",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "示波器",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "频谱分析仪",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "网络分析仪",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "失真分析仪",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "频率计",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "逻辑分析仪",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "逻辑转换仪",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "波特图仪",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "瓦特表",
+      "target": "虚拟仪器仪表",
+      "relation": "IS_A"
+    },
+    {
+      "source": "本征半导体",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "本征半导体",
+      "target": "半导体",
+      "relation": "IS_A"
+    },
+    {
+      "source": "本征半导体",
+      "target": "自由电子",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "本征半导体",
+      "target": "空穴",
+      "relation": "GENERATES"
+    },
+    {
+      "source": "硅",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "锗",
+      "target": "元件",
+      "relation": "IS_A"
+    },
+    {
+      "source": "单向导电性",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "温度影响",
+      "target": "半导体器件",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "半导体材料",
+      "target": "硅",
+      "relation": "USES"
+    },
+    {
+      "source": "半导体材料",
+      "target": "锗",
+      "relation": "USES"
+    },
+    {
+      "source": "自由电子",
+      "target": "载流子",
+      "relation": "IS_A"
+    },
+    {
+      "source": "自由电子",
+      "target": "热激发",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "自由电子",
+      "target": "复合",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "载流子",
+      "target": "本征半导体",
+      "relation": "APPLIES_TO"
+    },
+    {
+      "source": "空穴",
+      "target": "载流子",
+      "relation": "IS_A"
+    },
+    {
+      "source": "空穴",
+      "target": "热激发",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "空穴",
+      "target": "复合",
+      "relation": "DEPENDS_ON"
+    },
+    {
+      "source": "本征激发",
+      "target": "原理",
+      "relation": "IS_A"
+    },
+    {
+      "source": "复合",
+      "target": "原理",
+      "relation": "IS_A"
+    }
+  ]
+}
